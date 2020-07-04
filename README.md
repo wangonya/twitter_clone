@@ -1,4 +1,4 @@
-# twitter_clone
+# witter
 Twitter clone just for fun
 
 - Python backend ([FastApi](https://fastapi.tiangolo.com/))
